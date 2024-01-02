@@ -13,7 +13,7 @@ public class EnhancedForLoop {
         System.out.println("\n2D Array:");
         for (int[] row : matrix) {
             for (int element : row) {
-                System.out.print(element + " ");
+                System.out.print(element + " here is the enchaced for loop ");
             }
             System.out.println(); 
         }
